@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-haven-app/static/css/main.3982bb5f.css",
+    "main.js": "/book-haven-app/static/js/main.8cbf73d2.js",
+    "index.html": "/book-haven-app/index.html",
+    "main.3982bb5f.css.map": "/book-haven-app/static/css/main.3982bb5f.css.map",
+    "main.8cbf73d2.js.map": "/book-haven-app/static/js/main.8cbf73d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.8cbf73d2.js"
+  ]
+}
