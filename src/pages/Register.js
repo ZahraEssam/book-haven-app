@@ -21,7 +21,7 @@ function Register() {
       return;
     }
 
-    const newUser = { name, email, password }; // ✅ أضفنا الاسم
+    const newUser = { name, email, password }; 
     storedUsers.push(newUser);
     localStorage.setItem("users", JSON.stringify(storedUsers));
     alert("Registration successful!");
